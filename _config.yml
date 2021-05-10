@@ -21,15 +21,16 @@
 title: Current Korean
 email: currentkorean@gmail.com.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Advance your Korean by learning the vocabulary and grammar needed to discuss current events
+  Advance your Korean by learning the vocabulary and grammar you need to discuss current events
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://currentkorean.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-author: Minna
+author: by Minna
 twitter_username: currentkorean
 github_username:  currentkorean
 
 # Build settings
-theme: minima
+# Removed minima theme as it is now a regular theme
+# theme: minima
 plugins:
   - jekyll-feed
 
