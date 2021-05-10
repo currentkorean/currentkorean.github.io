@@ -1,29 +1,26 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Honeybees trained to detect COVID-19"
 date:   2021-05-09 16:52:01 -0700
-categories: jekyll update
+categories: listening
+permalink: /:categories/:title
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+In today's news item you will hear about a study claiming that trained honeybees can detect COVID-19.
 
-Jekyll requires blog post files to be named according to the following format:
+Vocabulary related to scientific studies:
+* 탐지 - (n) detection
+* 후각 - (n) sense of smell
+* 연구하다 - (v) to research <br>
+  연구결과 - (n) research results <br>
+  연구팀 - (n) research team
+* 유의미하다 - (adj) meaningful
+* 노출 - (n) exposure
+* 표본 - (n) specimen
+* 정확도 - (n) degree of accuracy
 
-`YEAR-MONTH-DAY-title.MARKUP`
+Miscellaneous vocabulary:
+* 훈련 - (n) training, drills
+* 민감하다 - (adj) be sensitive to a stimulus
+* 주둥이 - (n) the protruding part of an animal's mouth or nose
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ekvAjveVhCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
