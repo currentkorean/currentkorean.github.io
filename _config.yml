@@ -32,6 +32,7 @@ twitter_username: currentkorean
 # Fields minima uses but are not defaulted with the jekyll new command
 author: by Minna
 instagram_username: currentkorean
+show_excerpts: true
 
 # Build settings
 # Removed minima theme as it is now a regular theme
