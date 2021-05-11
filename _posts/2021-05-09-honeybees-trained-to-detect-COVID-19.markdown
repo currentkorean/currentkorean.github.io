@@ -26,3 +26,4 @@ Vocabulary list:
 * 표본 - (n) specimen
 * 주둥이 - (n) the protruding part of an animal's mouth or nose
 * 정확도 - (n) degree of accuracy
+
