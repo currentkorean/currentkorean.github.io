@@ -1,14 +1,13 @@
 ---
 layout: post
 title:  "Are you throwing out food because it is past its expiration date?"
-date:   2021-05-19 16:52:01 -0700
+date:   2021-05-31 16:52:01 -0700
 categories: reading
 permalink: /:categories/:title.html
 excerpt_separator: <!--more-->
 ---
 
 Do you find yourself throwing out food just because it is past its expiration date? You're likely throwing out food that's still safe to eat. Today's article looks at a strategy Korea is using to reduce this type of food waste. <br>
-<br>
 
 Article excerpt: 
 
